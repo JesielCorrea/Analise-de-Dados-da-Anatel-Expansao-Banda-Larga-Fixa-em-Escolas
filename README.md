@@ -1,4 +1,4 @@
-# 📊 Panorama da Expansão da Banda Larga Fixa nas Escolas (2008–2018)
+# 📊 anatel-banda-larga-escolas-br
 
 ![Dashboard](imagens/visao-geral.png)
 
