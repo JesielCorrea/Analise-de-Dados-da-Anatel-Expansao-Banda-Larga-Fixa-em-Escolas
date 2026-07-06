@@ -21,7 +21,7 @@ Analisar a expansão da banda larga fixa nas escolas brasileiras utilizando dado
 
 ## 📊 Dashboard
 
-<img width="1167" height="642" alt="image" src="https://github.com/user-attachments/assets/180c0eff-574d-4c3d-bee2-997a692e4100" />
+<img width="1151" height="648" alt="image" src="https://github.com/user-attachments/assets/2497a587-76aa-425f-8b58-7ddac9d4bf7f" />
 
 ## 💡 Principais Insights
 
