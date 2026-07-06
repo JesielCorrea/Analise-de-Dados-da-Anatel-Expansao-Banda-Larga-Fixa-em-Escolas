@@ -4,24 +4,24 @@ Panorama de Expansão: Banda Larga Fixa nas Escolas 2008 á 2018
 Visão Geral
 Projeto desenvolvido em Power BI utilizando dados públicos da Anatel, com o objetivo de analisar a evolução da infraestrutura de banda larga fixa nas escolas brasileiras entre 2008 e 2018.
 O dashboard permite visualizar a distribuição das tecnologias utilizadas, a atuação das concessionárias e indicadores de cobertura por município.
-________________________________________
+
 Objetivos da análise
 •	Identificar quais concessionárias atenderam o maior número de municípios. 
 •	Comparar as tecnologias utilizadas na expansão da banda larga. 
 •	Explorar a distribuição da cobertura entre os estados brasileiros. 
 •	Construir indicadores para facilitar a análise da expansão da infraestrutura de telecomunicações. 
-________________________________________
+
 Fonte dos Dados
 •	Agência Nacional de Telecomunicações (ANATEL) 
 •	Base pública de Banda Larga nas Escolas 
-________________________________________
+
 Ferramentas utilizadas
 •	Power BI 
 •	Power Query 
 •	DAX 
 •	Modelagem de Dados 
 •	Excel 
-________________________________________
+
 Principais Indicadores
 ✔ Total de Estados Atendidos
 ✔ Total de Municípios Atendidos
